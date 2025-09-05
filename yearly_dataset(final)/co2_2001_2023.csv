@@ -1,4 +1,4 @@
-country,year,co2,co2_per_capita,coal_co2,oil_co2,gas_co2,cement_co2,population
+Country,year,co2,co2_per_capita,coal_co2,oil_co2,gas_co2,cement_co2,population
 Argentina,2001,135.137,3.592,2.008,64.334,64.807,2.481,37624818.0
 Argentina,2002,124.931,3.285,1.579,57.495,62.618,1.729,38029346.0
 Argentina,2003,134.481,3.5,2.48,59.355,69.068,2.28,38424284.0

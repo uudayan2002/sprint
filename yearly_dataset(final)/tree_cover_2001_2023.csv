@@ -1,4 +1,4 @@
-Country Name,Country Code,tree_cover_extent_2000__ha,area__ha,tree_cover_loss__year,tree_cover_loss__ha,gross_emissions_co2e_all_gases__Mg,pct_tree_cover_2000,pct_loss_vs_extent
+Country,Country Code,tree_cover_extent_2000__ha,area__ha,tree_cover_loss__year,tree_cover_loss__ha,gross_emissions_co2e_all_gases__Mg,pct_tree_cover_2000,pct_loss_vs_extent
 Argentina,ARG,39069969.44,277905833.7,2001.0,147801.6797,32550580.95,14.058707915493462,0.3782999623968992
 Argentina,ARG,39069969.44,277905833.7,2002.0,104934.5176,25247896.36,14.058707915493462,0.2685810076231276
 Argentina,ARG,39069969.44,277905833.7,2003.0,249106.7574,48731735.68,14.058707915493462,0.6375913802096898
