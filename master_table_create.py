@@ -55,6 +55,12 @@ master["temp_anomaly"] = master.apply(
     lambda row: row["Temp_Mean"] - baseline[row["Country"]], axis=1
 )
 
+# 2. Handle Missing Values
+# --------------------
+weather = weather.fillna(method="ffill") # forward fill
+co2 = co2.fillna(method="ffill")
+tree_cover = tree_cover.fillna(0)
+
 # --------------------
 # Save transformed dataset
 # --------------------
